@@ -68,6 +68,7 @@ header {
   text-align: center;
   padding: 0;
   display: none;
+  margin: 0;
 }
 .mobile-menu > span,
 .mobile-menu > .closeButton {
