@@ -1,6 +1,11 @@
 $(document).ready(function () {
   var options = {
-    strings: ["Hasan Ujjaman Jibon.", "Digital Marketing Expert."],
+    strings: [
+      "Hasan Ujjaman Jibon.",
+      "Digital Marketing Expert.",
+      "Hasan Ujjaman Jibon.",
+      "Junior Web Designer",
+    ],
     typeSpeed: 40,
     backSpeed: 40,
     showCursor: false,
