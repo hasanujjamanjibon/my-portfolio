@@ -15,6 +15,9 @@
     font-size: 1.5rem;
     height: 1.8rem;
   }
+  .row > .logo-section > img {
+    width: 50px;
+  }
   .header-image > img {
     transform: scale(1.3);
     margin-top: 2%;
@@ -26,9 +29,12 @@
     display: none;
   }
   .mobile-menu {
+    align-self: center !important;
     display: block;
+    margin: 0;
+    padding: 0;
   }
-  .header-body > .row > .header-text > .social-icon > .social:last-child{
+  .header-body > .row > .header-text > .social-icon > .social:last-child {
     margin-right: 0;
   }
   .contact-section > .row,
