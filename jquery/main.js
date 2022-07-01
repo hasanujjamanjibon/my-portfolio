@@ -4,7 +4,7 @@ $(document).ready(function () {
       "Hasan Ujjaman Jibon.",
       "Digital Marketing Expert.",
       "Hasan Ujjaman Jibon.",
-      "Junior Web Designer",
+      "Junior Web Designer.",
     ],
     typeSpeed: 40,
     backSpeed: 40,
